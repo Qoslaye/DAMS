@@ -16,25 +16,6 @@ This project is a **Doctor Appointment System** developed in PHP. It allows user
 - **Responsive Design**
   - The system is designed to be responsive and works on desktop and mobile devices.
 
-## Technologies Used
-
-- **Backend:** PHP
-- **Frontend:** HTML, CSS, JavaScript (with optional libraries like Bootstrap)
-- **Version Control:** Git
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/DAMS-in-php.git
-   ```
-
-
-
-
-5. Open the application:
-   - Navigate to `http://localhost/Doctor-appointment` in your browser.
-
 ## Usage
 
 ### For Patients
@@ -47,9 +28,6 @@ This project is a **Doctor Appointment System** developed in PHP. It allows user
 2. Manage your schedule and appointments.
 
 
-   ---
-## 📸 Screenshot
----
 
 ## How to run the Doctor Appointment Management System Project Using PHP and MySQL
 
@@ -69,8 +47,8 @@ This project is a **Doctor Appointment System** developed in PHP. It allows user
 
 Doctor Login
 
-Username: anu@gmail.com
+Username: iamqoslaye@gmail.com
 
-Password: Test@123
+Password: 123
 
 Or Register a new user.
