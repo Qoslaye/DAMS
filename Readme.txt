@@ -38,7 +38,8 @@ Or Register a new user.
    ---
 ## 📸 Screenshots
 ---
-<img width="959" alt="page 1" src="https://github.com/user-attachments/assets/b0962ce3-1cbf-44f9-8f8e-74b5bfe705f9" />
+<img width="959" alt="page 1" src="https://github.com/user-attachments/assets/f99396ba-7c47-477a-95ad-5b60f91f92a0" />
+
 
 
 
