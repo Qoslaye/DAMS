@@ -36,7 +36,7 @@ Password: 123
 Or Register a new user.
 
    ---
-## 📸 Screenshot
+## 📸 Screenshots
 ---
 <img width="959" alt="page 1" src="https://github.com/user-attachments/assets/c0f43d89-fdbe-4b8a-9055-ef5cb78a21e2" />
 <img width="958" alt="page 2" src="https://github.com/user-attachments/assets/a36baebf-7b5a-4b9c-8f2b-131ad6a5463b" />
