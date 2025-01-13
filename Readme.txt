@@ -38,8 +38,6 @@ Or Register a new user.
    ---
 ## 📸 Screenshots
 ---
-https://github.com/Qoslaye/DAMS-in-PHP-and-MSQL/issues/1#issue-2782920928
-
 <img width="959" alt="page 1" src="https://github.com/user-attachments/assets/c0f43d89-fdbe-4b8a-9055-ef5cb78a21e2" />
 <img width="958" alt="page 2" src="https://github.com/user-attachments/assets/a36baebf-7b5a-4b9c-8f2b-131ad6a5463b" />
 <img width="959" alt="Doctor signup" src="https://github.com/user-attachments/assets/b6de3de2-8775-4fc4-aa87-a9e0ce0ef76e" />
